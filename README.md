@@ -1,3 +1,10 @@
+# Introduction
+ATOMOTS_NFTMARKETPLACE2 – is the NFT Marketplace for traders and creators. It brings together collectors and creators, allowing them to trade and exchange works as non-fungible tokens. For creators, the work with the marketplace is really simple; it all starts with uploading an item on a blockchain, and then it can be traded as a non-fungible asset.
+
+# screenshot
+![bidzen-nft-marketplace-react-template](https://user-images.githubusercontent.com/89033750/162656830-0e585928-cec4-465f-afa8-e13ee8f25ca4.png)
+
+This Template offers various personalization options to help you give the look you require on your website. It is very easy to navigate and fits various screen sizes
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
